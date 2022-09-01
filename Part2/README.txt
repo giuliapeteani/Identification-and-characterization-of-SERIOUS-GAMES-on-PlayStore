@@ -8,4 +8,4 @@ To run correctly the code related to second part of the project, please follow t
 
 In order to obtain the csv files needed for the dashboard, simply run the two .py main functions. 
 Then, after having done the download of 'dashboard' folder (where also the required csv files just mentioned are stored) and after having put in Public folder of your pc 
-the three csv files (attention deficit.csv, learning_disorders.csv, other.csv), simply run the file dashboard.py to visualize the dashboard
+the three csv files (attention deficit.csv, learning_disorders.csv, other.csv), simply run the file dashboard.py to visualize the dashboard. 
