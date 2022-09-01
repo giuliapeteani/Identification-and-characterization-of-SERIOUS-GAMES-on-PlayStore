@@ -18,3 +18,5 @@ BeautifulSoup is used to extract information and to use CSS (Cascading Style She
 selected serious games, depending on the type of study carried on in associated papers. This was performed using a provided lists of words characteristic for each study type and counting the number of words in common between the abstracts (after NLP processing) and the four dictionaries. 
 
 
+
+Contributors: Giulia Peteani, Gloria Rizzato, Francesca Ronchetti, Maria Marchesi, Martina Minotti
